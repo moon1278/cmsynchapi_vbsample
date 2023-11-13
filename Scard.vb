@@ -2,12 +2,6 @@ Option Strict Off
 Option Explicit On
 Module Scard
 
-
-
-
-
-
-
     ' *******************************************************
     ' Common SCard functions
     ' *******************************************************
