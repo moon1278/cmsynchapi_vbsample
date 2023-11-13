@@ -16,10 +16,7 @@ Friend Class Form1
     Dim isCard As Boolean
     Dim var As String
 
-
-
-
-
+    'test test
     'UPGRADE_NOTE: str was upgraded to str_Renamed. Click for more: 'ms-help://MS.VSCC.v90/dv_commoner/local/redirect.htm?keyword="A9E4979A-37FA-4718-9994-97DD76ED70A7"'
     Private Function HexStrToInt(ByVal str_Renamed As String) As Short
         Dim iStrLen As Object
